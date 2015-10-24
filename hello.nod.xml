@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<nodes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/nodes_file.xsd">
-<!- Taimelan risteys -->
+<nodes>
+    <!-- Jyväskyläntien ja Liimattalantien ristys -->
     <node id="1" x="0.0" y="0.0" />
-    <node id="2" x="+60.0" y="10.0" />
-    <node id="3" x="+480.0" y="70.0" />
+    <!-- Liimattalantien ja Kauralantien ristys -->
+    <node id="2" x="60.0" y="10.0" />
+    <!-- Liimattalantien ja Päivöläntien ristys -->
+    <node id="3" x="340.0" y="150.0" />
+    <!-- Jyväskyläntien ja Hakalantien ristys -->
+    <node id="4" x="70.0" y="420.0" />
+    <!-- Jyväskyläntien ja Savilantien ristys -->
+    <node id="5" x="-130.0" y="-1100.0" />
 </nodes>
