@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <types>
+   <!-- Kaksi kaistaa etuajo-oikeus -->
    <type id="a" priority="3" numLanes="3" speed="13.889"/>
+   <!-- Yksi kaista etuajo-oikeus -->
    <type id="b" priority="3" numLanes="2" speed="13.889"/>
+   <!-- Yksi kaista ei etuajo-oikeutta -->
    <type id="c" priority="2" numLanes="3" speed="13.889"/>
 </types>
 
